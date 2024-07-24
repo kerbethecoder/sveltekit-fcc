@@ -1,7 +1,17 @@
-<h1 class="text-3xl font-bold underline">Hello world!</h1>
+<script>
+	import { Conversion, FAQs, Hero, Product, Reviews } from '../components';
+</script>
 
-<style lang="postcss">
+<main class="flex flex-col">
+	<Hero />
+	<Product />
+	<Reviews />
+	<FAQs />
+	<Conversion />
+</main>
+
+<!-- <style lang="postcss">
 	:global(html) {
 		background-color: theme(colors.gray.100);
 	}
-</style>
+</style> -->
