@@ -2,9 +2,9 @@
 	import { openModal } from '../store';
 </script>
 
-<header class="flex flex-col relative z-20">
+<header class="flex flex-col relative z-20 mb-32">
 	<div class="max-w-[1400px] mx-auto w-full flex items-center justify-between p-4 py-6">
-		<a href="/">
+		<a href="/" class="hover:opacity-60 transition duration-300 ease-in-out">
 			<h1 class="font-semibold">Swoley <span class="text-indigo-400">Moley</span></h1></a
 		>
 		<button on:click={() => ($openModal = true)} class="md:hidden grid place-items-center">
@@ -14,7 +14,7 @@
 			<a href="#product" class="duration-200 hover:text-indigo-400 cursor-pointer">Product</a>
 			<a href="#reviews" class="duration-200 hover:text-indigo-400 cursor-pointer">Reviews</a>
 			<a href="#faqs" class="duration-200 hover:text-indigo-400 cursor-pointer">FAQ</a>
-			<button class="specialBtn">
+			<button class="specialBtn transition duration-300 ease-in-out">
 				<p>Start free today</p>
 			</button>
 		</nav>

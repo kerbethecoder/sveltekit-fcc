@@ -36,26 +36,20 @@ button,
 	transition: border-color 0.2s;
 }
 
-button:hover {
-	border-color: var(--specialBlue);
-}
-
-button:focus,
-button:focus-visible {
-	outline: 4px auto -webkit-focus-ring-color;
-}
-
 .specialBtn {
-	border-color: var(--specialBlue);
+	border: 1px solid var(--specialBlue);
+	padding-left: 2rem /* 32px */;
+	padding-right: 2rem /* 32px */;
+}
+
+.specialBtn:hover {
+	background-color: var(--specialBlue);
+	color: white;
 }
 
 .specialBtnDark {
 	background: var(--specialBlue);
 	color: white;
-}
-
-.specialBtn:hover {
-	border-color: blue;
 }
 
 .dropShadow {

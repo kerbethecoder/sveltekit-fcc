@@ -26,7 +26,9 @@
 			{/each}
 		</div>
 		<div class="flex items-center">
-			<button class="specialBtnDark mr-auto font-semibold">
+			<button
+				class="specialBtnDark mr-auto font-semibold px-6 transition duration-300 ease-in-out hover:bg-blue-800"
+			>
 				<p>Try free today &rarr;</p>
 			</button>
 		</div>

@@ -82,7 +82,10 @@
 				{/each}
 			</div>
 		</div>
-		<button on:click={() => (limit = !limit)} class="specialBtn">
+		<button
+			on:click={() => (limit = !limit)}
+			class="specialBtn transition duration-300 ease-in-out"
+		>
 			<p>{limit ? 'Show More' : 'Show Less'}</p>
 		</button>
 		<div class="flex flex-col gap-10">

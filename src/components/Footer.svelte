@@ -8,29 +8,49 @@
 		</div>
 		<div class="flex flex-col gap-4">
 			<p class="font-poppins font-bold text-base sm:text-lg">Support</p>
-			<a href="" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200"
-				>Contact Us</a
+			<a
+				href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM1bzhtcHVjazB5YXFnbzF0aGJkNDlwNzdhYnBxdXlva3N1dmQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif"
+				target="_blank"
+				class="cursor-pointer hover:text-indigo-400 duration-200">Contact Us</a
 			>
 		</div>
 		<div class="flex flex-col gap-4">
 			<p class="font-poppins font-bold text-base sm:text-lg">Research</p>
-			<a href="" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200"
-				>Read the science</a
+			<a
+				href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM1bzhtcHVjazB5YXFnbzF0aGJkNDlwNzdhYnBxdXlva3N1dmQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif"
+				target="_blank"
+				class="cursor-pointer hover:text-indigo-400 duration-200">Read the science</a
 			>
 		</div>
 		<div class="flex flex-col gap-4">
 			<p class="font-poppins font-bold text-base sm:text-lg">Follow Us</p>
-			<a href="" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+			<a
+				href="https://www.instagram.com/"
+				target="_blank"
+				class="cursor-pointer hover:text-indigo-400 duration-200"
+			>
 				<i class="fa-brands fa-instagram pr-2" />Instagram</a
 			>
-			<a href="" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+			<a
+				href="https://www.youtube.com/"
+				target="_blank"
+				class="cursor-pointer hover:text-indigo-400 duration-200"
+			>
 				<i class="fa-brands fa-youtube pr-2" />YouTube</a
 			>
-			<a href="" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+			<a
+				href="https://www.facebook.com/"
+				target="_blank"
+				class="cursor-pointer hover:text-indigo-400 duration-200"
+			>
 				<i class="fa-brands fa-facebook pr-2" />Facebook</a
 			>
-			<a href="" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
-				<i class="fa-brands fa-twitter pr-2" />Twitter</a
+			<a
+				href="https://x.com/?lang=en"
+				target="_blank"
+				class="cursor-pointer hover:text-indigo-400 duration-200"
+			>
+				<i class="fa-brands fa-x-twitter pr-2" />Twitter</a
 			>
 		</div>
 	</div>
