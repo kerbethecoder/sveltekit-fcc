@@ -1,10 +1,11 @@
 <script>
 	import { openModal } from '../store';
+	import { base } from '$app/paths';
 </script>
 
 <header class="flex flex-col relative z-20">
 	<div class="max-w-[1400px] mx-auto w-full flex items-center justify-between p-4 py-6">
-		<a href="/" class="hover:opacity-60 transition duration-300 ease-in-out">
+		<a href="{base}/" class="hover:opacity-60 transition duration-300 ease-in-out">
 			<h1 class="font-semibold">Swoley <span class="text-indigo-400">Moley</span></h1></a
 		>
 		<button on:click={() => ($openModal = true)} class="md:hidden grid place-items-center">

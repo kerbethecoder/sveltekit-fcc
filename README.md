@@ -1,38 +1,22 @@
-# create-svelte
+![image](static/snap.png)
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+![Static Badge](https://img.shields.io/badge/sveltekit-v2%2e0%2e0-f96743) ![Static Badge](https://img.shields.io/badge/tailwindcss-v3%2e4%2e6-38bdf8)
 
-## Creating a project
+# Sveltekit Project from FreeCodeCamp
 
-If you're seeing this, you've probably already done this step. Congrats!
+This is a tutorial project with SvelteKit from FreeCodeCamp. If you want to learn more, visit their [official website](https://www.freecodecamp.org/) or [youtube channel](https://www.youtube.com/@freecodecamp) for more information.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Create your own project with these guides:
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+- [Svelte + Vite](https://github.com/kerbethecoder/svelte)
+- [SvelteKit + Vite](https://github.com/kerbethecoder/svelte)
 
-## Developing
+> [!NOTE]
+>
+> These are not official documentations, but my first-hand experience in building static sites and deploying to GitHub Pages. Feel free to correct me if there are some erros in each guide. ^^
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+---
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+🌎 [kerbethecoder](https://kerbethecoder.com/)  
+📫 krby.cnts@gmail.com  
+📌 July 25, 2024
